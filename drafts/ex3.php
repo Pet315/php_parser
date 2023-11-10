@@ -48,7 +48,7 @@ $crawler->filter('footer a')->each(function ($link) use ($client, &$url) {
     // Проверяем, что URL абсолютный
     if (filter_var($nextPageUrl, FILTER_VALIDATE_URL) === false) {
         // Если URL относительный, создаем абсолютный URL
-        $nextPageUrl = rtrim($url, '/') . '/' . ltrim($nextPageUrl, '/');
+        $nextPageUrl = rtrim($url, '/') . 'ex3.php/' . ltrim($nextPageUrl, '/');
     }
 
     // Переходим на следующую страницу

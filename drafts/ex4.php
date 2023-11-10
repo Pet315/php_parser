@@ -33,7 +33,7 @@ function processPage($client, $url)
         $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
 
         if (!filter_var($nextPageUrl, FILTER_VALIDATE_URL)) {
-            $nextPageUrl = rtrim($url, '/') . '/' . ltrim($nextPageUrl, '/');
+            $nextPageUrl = rtrim($url, '/') . 'ex4.php/' . ltrim($nextPageUrl, '/');
         }
 
         processPage($client, $nextPageUrl);
