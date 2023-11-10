@@ -1,28 +1,41 @@
 <?php
 
-require 'vendor/autoload.php'; // Загружаем Goutte
+require 'vendor/autoload.php'; // Install Goutte
 use Goutte\Client;
-include 'urls.php';
 
-$url = $url1; // Замените на URL вашего целевого веб-сайта
+$url = 'https://www.kreuzwort-raetsel.net/uebersicht.html';
 
 $client = new Client();
 
-// Функция для обработки текущей страницы
 function parsePage($crawler) {
-    $crawler->filter('h2')->each(function ($node) {
-//        if ($node->text() !== 'Seite wurde nicht gefunden') {
-//            echo $node->text() . "\n";
-//        }
-        echo $node->text() . "\n";
-    });
-}
-
-function parsePage1($crawler) {
-    $crawler->filter('li a')->each(function ($node) {
+    $crawler->filter('.dnrg li a')->each(function ($node) {
         echo $node->attr('href') . "\n";
     });
 }
+
+//function parsePage1($crawler) {
+//    $crawler->filter('.Question a')->each(function ($node) {
+//        echo $node->text() . "\n";
+//    });
+//}
+
+function parsePage2($crawler) {
+    $crawler->filter('.Answer a')->each(function ($node) {
+        echo $node->text() . "\n";
+    });
+    $crawler->filter('tbody .Length')->each(function ($node) {
+        echo $node->text() . "\n";
+    });
+//    $crawler->filter('tr')->each(function ($node) {
+//        echo $node->filter('.Answer a')->text() . ': ' . $node->filter('.Length a')->text() . "\n";
+//    });
+}
+
+//function parsePageEx($crawler) {
+//    $crawler->filter('h2')->each(function ($node) {
+//        echo $node->text() . "\n";
+//    });
+//}
 
 // Запускаем проход по каждой странице
 $crawler = $client->request('GET', $url);
@@ -31,22 +44,42 @@ $crawler = $client->request('GET', $url);
 parsePage($crawler);
 
 // Шаг 2: Переходим на каждую из ссылок внутри таблицы
-$crawler->filter('li a')->each(function ($link) use ($client, &$url) {
-    // Получаем URL из атрибута href ссылки
+$crawler->filter('.dnrg li a')->each(function ($link) use ($client, &$url) {
     $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
 
-    // Проверяем, что URL абсолютный
     if (filter_var($nextPageUrl, FILTER_VALIDATE_URL) === false) {
-        // Если URL относительный, создаем абсолютный URL
         $nextPageUrl = rtrim($url, '/') . '/' . ltrim($nextPageUrl, '/');
     }
 
-    // Переходим на следующую страницу
     $nextPageCrawler = $client->request('GET', $nextPageUrl);
+//    parsePage($nextPageCrawler);
 
-    // Шаг 3: Обрабатываем текущую страницу
-    parsePage($nextPageCrawler);
+    $nextPageCrawler->filter('.dnrg li a')->each(function ($link) use ($client, &$url1) {
+        echo $link->attr('href') . "\n";
+        $nextPageUrl1 = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
 
-    // Обновляем URL для следующей итерации
+        if (filter_var($nextPageUrl1, FILTER_VALIDATE_URL) === false) {
+            $nextPageUrl1 = rtrim($url1, '/') . '/' . ltrim($nextPageUrl1, '/');
+        }
+
+        $nextPageCrawler1 = $client->request('GET', $nextPageUrl1);
+//        parsePage1($nextPageCrawler1);
+
+        $nextPageCrawler1->filter('.Question a')->each(function ($link) use ($client, &$url2) {
+            echo $link->text() . "\n";
+            $nextPageUrl2 = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
+
+            if (filter_var($nextPageUrl2, FILTER_VALIDATE_URL) === false) {
+                $nextPageUrl2 = rtrim($url2, '/') . '/' . ltrim($nextPageUrl2, '/');
+            }
+
+            $nextPageCrawler2 = $client->request('GET', $nextPageUrl2);
+            parsePage2($nextPageCrawler2);
+            $url2 = $nextPageUrl2;
+        });
+
+        $url1 = $nextPageUrl1;
+    });
+
     $url = $nextPageUrl;
 });
