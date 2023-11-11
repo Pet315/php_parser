@@ -3,14 +3,6 @@
 require 'vendor/autoload.php'; // Install Goutte
 use Goutte\Client;
 
-function parsePage($crawler) {
-    $letters = [];
-    $crawler->filter('.dnrg li a')->each(function ($node) use (&$letters) {
-        $letters[] = $node->attr('href');
-    });
-    return $letters;
-}
-
 function parsePage2($crawler) {
     $answers = [];
     $length = [];
@@ -104,9 +96,6 @@ function get_data() {
 $url = 'https://www.kreuzwort-raetsel.net/uebersicht.html';
 $client = new Client();
 $scanner = $client->request('GET', $url);
-
-//move_to_log(parsePage($scanner));
-//file_put_contents('data.log', '[', FILE_APPEND);
 
 //main($scanner, $client, $url);
 print_r(get_data()[0]['questions'][0]);
