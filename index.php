@@ -109,5 +109,5 @@ $scanner = $client->request('GET', $url);
 //move_to_log(parsePage($scanner));
 //file_put_contents('data.log', '[', FILE_APPEND);
 
-//main($scanner, $client, $url);
+main($scanner, $client, $url);
 get_data();
