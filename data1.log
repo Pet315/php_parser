@@ -1,0 +1,5879 @@
+[
+    {
+        "page": "a-0",
+        "questions": [
+            {
+                "question": "A im internationalen Alphabet",
+                "answers": [
+                    "ALPHA"
+                ],
+                "length": [
+                    "5"
+                ]
+            },
+            {
+                "question": "a meta",
+                "answers": [
+                    "HALBEHALBE"
+                ],
+                "length": [
+                    "10"
+                ]
+            },
+            {
+                "question": "a propos",
+                "answers": [
+                    "UEBRIGENS",
+                    "NEBENBEIBEMERKT"
+                ],
+                "length": [
+                    "9",
+                    "15"
+                ]
+            },
+            {
+                "question": "a propos",
+                "answers": [
+                    "UEBRIGENS",
+                    "NEBENBEIBEMERKT"
+                ],
+                "length": [
+                    "9",
+                    "15"
+                ]
+            },
+            {
+                "question": "A-part-Sprechen (Theater)",
+                "answers": [
+                    "BEISEITESPRECHEN"
+                ],
+                "length": [
+                    "16"
+                ]
+            },
+            {
+                "question": "Aa",
+                "answers": [
+                    "BERGBACH"
+                ],
+                "length": [
+                    "8"
+                ]
+            },
+            {
+                "question": "Aach",
+                "answers": [
+                    "DONAUABFLUSS"
+                ],
+                "length": [
+                    "12"
+                ]
+            },
+            {
+                "question": "Aachener Auszeichnung f\u00fcr Verdienste um Europa",
+                "answers": [
+                    "KARLSPREIS"
+                ],
+                "length": [
+                    "10"
+                ]
+            },
+            {
+                "question": "Aachener Backspezialit\u00e4t",
+                "answers": [
+                    "PRINTE"
+                ],
+                "length": [
+                    "6"
+                ]
+            },
+            {
+                "question": "Aachener Backwerk",
+                "answers": [
+                    "PRINTE"
+                ],
+                "length": [
+                    "6"
+                ]
+            },
+            {
+                "question": "Aachener Baumeister des Barocks (Jakob, 1735-1812)",
+                "answers": [
+                    "COUVEN"
+                ],
+                "length": [
+                    "6"
+                ]
+            },
+            {
+                "question": "Aachener Bauwerk",
+                "answers": [
+                    "PONTTOR",
+                    "KAISERDOM",
+                    "CAROLUSTHERME",
+                    "ELISENBRUNNEN"
+                ],
+                "length": [
+                    "7",
+                    "9",
+                    "13",
+                    "13"
+                ]
+            },
+            {
+                "question": "Aachener Bauwerk",
+                "answers": [
+                    "PONTTOR",
+                    "KAISERDOM",
+                    "CAROLUSTHERME",
+                    "ELISENBRUNNEN"
+                ],
+                "length": [
+                    "7",
+                    "9",
+                    "13",
+                    "13"
+                ]
+            },
+            {
+                "question": "Aachener Bauwerk",
+                "answers": [
+                    "PONTTOR",
+                    "KAISERDOM",
+                    "CAROLUSTHERME",
+                    "ELISENBRUNNEN"
+                ],
+                "length": [
+                    "7",
+                    "9",
+                    "13",
+                    "13"
+                ]
+            },
+            {
+                "question": "Aachener Bauwerk",
+                "answers": [
+                    "PONTTOR",
+                    "KAISERDOM",
+                    "CAROLUSTHERME",
+                    "ELISENBRUNNEN"
+                ],
+                "length": [
+                    "7",
+                    "9",
+                    "13",
+                    "13"
+                ]
+            },
+            {
+                "question": "Aachener Europapreis",
+                "answers": [
+                    "KARLSPREIS"
+                ],
+                "length": [
+                    "10"
+                ]
+            },
+            {
+                "question": "Aachener Europapreis (...preis)",
+                "answers": [
+                    "KARLS"
+                ],
+                "length": [
+                    "5"
+                ]
+            },
+            {
+                "question": "Aachener Fu\u00dfballstadion",
+                "answers": [
+                    "TIVOLI"
+                ],
+                "length": [
+                    "6"
+                ]
+            },
+            {
+                "question": "Aachener Geb\u00e4ck",
+                "answers": [
+                    "PRINTE",
+                    "PRINTEN"
+                ],
+                "length": [
+                    "6",
+                    "7"
+                ]
+            },
+            {
+                "question": "Aachener Geb\u00e4ck",
+                "answers": [
+                    "PRINTE",
+                    "PRINTEN"
+                ],
+                "length": [
+                    "6",
+                    "7"
+                ]
+            },
+            {
+                "question": "Aachener Geb\u00e4ck (Mehrzahl)",
+                "answers": [
+                    "PRINTEN"
+                ],
+                "length": [
+                    "7"
+                ]
+            },
+            {
+                "question": "Aachener Geb\u00e4ckspezialit\u00e4t",
+                "answers": [
+                    "PRINTE"
+                ],
+                "length": [
+                    "6"
+                ]
+            },
+            {
+                "question": "Aachener Geb\u00e4ckspezialit\u00e4ten",
+                "answers": [
+                    "PRINTEN"
+                ],
+                "length": [
+                    "7"
+                ]
+            },
+            {
+                "question": "Aachener Gruss",
+                "answers": [
+                    "KLENKES"
+                ],
+                "length": [
+                    "7"
+                ]
+            },
+            {
+                "question": "Aachener Lebkuchen",
+                "answers": [
+                    "PRINTEN"
+                ],
+                "length": [
+                    "7"
+                ]
+            },
+            {
+                "question": "Aachener Lebkuchenspezialit\u00e4t",
+                "answers": [
+                    "PRINTE"
+                ],
+                "length": [
+                    "6"
+                ]
+            },
+            {
+                "question": "Aachener Osterbrot",
+                "answers": [
+                    "POSCHWECK"
+                ],
+                "length": [
+                    "9"
+                ]
+            },
+            {
+                "question": "Aachener Pfefferkuchen",
+                "answers": [
+                    "PRINTE"
+                ],
+                "length": [
+                    "6"
+                ]
+            },
+            {
+                "question": "Aachener Reitsportturnier (kurz)",
+                "answers": [
+                    "CHIO"
+                ],
+                "length": [
+                    "4"
+                ]
+            },
+            {
+                "question": "Aachener Reitsportturnier (Kurzwort)",
+                "answers": [
+                    "CHIO"
+                ],
+                "length": [
+                    "4"
+                ]
+            },
+            {
+                "question": "Aachener Reitturnier",
+                "answers": [
+                    "CHIO"
+                ],
+                "length": [
+                    "4"
+                ]
+            },
+            {
+                "question": "Aachener Reitturnier (Abk\u00fcrzung)",
+                "answers": [
+                    "CHIO"
+                ],
+                "length": [
+                    "4"
+                ]
+            },
+            {
+                "question": "Aachener Sehensw\u00fcrdigkeit",
+                "answers": [
+                    "DOM",
+                    "PONTTOR",
+                    "KAISERDOM",
+                    "KARLSSCHREIN",
+                    "ELISENBRUNNEN"
+                ],
+                "length": [
+                    "3",
+                    "7",
+                    "9",
+                    "12",
+                    "13"
+                ]
+            },
+            {
+                "question": "Aachener Sehensw\u00fcrdigkeit",
+                "answers": [
+                    "DOM",
+                    "PONTTOR",
+                    "KAISERDOM",
+                    "KARLSSCHREIN",
+                    "ELISENBRUNNEN"
+                ],
+                "length": [
+                    "3",
+                    "7",
+                    "9",
+                    "12",
+                    "13"
+                ]
+            },
+            {
+                "question": "Aachener Sehensw\u00fcrdigkeit",
+                "answers": [
+                    "DOM",
+                    "PONTTOR",
+                    "KAISERDOM",
+                    "KARLSSCHREIN",
+                    "ELISENBRUNNEN"
+                ],
+                "length": [
+                    "3",
+                    "7",
+                    "9",
+                    "12",
+                    "13"
+                ]
+            },
+            {
+                "question": "Aachener Sehensw\u00fcrdigkeit",
+                "answers": [
+                    "DOM",
+                    "PONTTOR",
+                    "KAISERDOM",
+                    "KARLSSCHREIN",
+                    "ELISENBRUNNEN"
+                ],
+                "length": [
+                    "3",
+                    "7",
+                    "9",
+                    "12",
+                    "13"
+                ]
+            },
+            {
+                "question": "Aachener Sehensw\u00fcrdigkeit",
+                "answers": [
+                    "DOM",
+                    "PONTTOR",
+                    "KAISERDOM",
+                    "KARLSSCHREIN",
+                    "ELISENBRUNNEN"
+                ],
+                "length": [
+                    "3",
+                    "7",
+                    "9",
+                    "12",
+                    "13"
+                ]
+            },
+            {
+                "question": "Aachener Spezialit\u00e4t",
+                "answers": [
+                    "PRINTE",
+                    "PRINTEN",
+                    "KARLSWURST"
+                ],
+                "length": [
+                    "6",
+                    "7",
+                    "10"
+                ]
+            },
+            {
+                "question": "Aachener Spezialit\u00e4t",
+                "answers": [
+                    "PRINTE",
+                    "PRINTEN",
+                    "KARLSWURST"
+                ],
+                "length": [
+                    "6",
+                    "7",
+                    "10"
+                ]
+            },
+            {
+                "question": "Aachener Spezialit\u00e4t",
+                "answers": [
+                    "PRINTE",
+                    "PRINTEN",
+                    "KARLSWURST"
+                ],
+                "length": [
+                    "6",
+                    "7",
+                    "10"
+                ]
+            },
+            {
+                "question": "Aachener Spezialit\u00e4ten",
+                "answers": [
+                    "PRINTEN"
+                ],
+                "length": [
+                    "7"
+                ]
+            },
+            {
+                "question": "Aachener Sportst\u00e4tte",
+                "answers": [
+                    "TIVOLI"
+                ],
+                "length": [
+                    "6"
+                ]
+            },
+            {
+                "question": "Aachener Stadion",
+                "answers": [
+                    "TIVOLI"
+                ],
+                "length": [
+                    "6"
+                ]
+            },
+            {
+                "question": "Aachener Stadtmauer",
+                "answers": [
+                    "PONTTOR"
+                ],
+                "length": [
+                    "7"
+                ]
+            },
+            {
+                "question": "Aachener Universit\u00e4t (Abk\u00fcrzung)",
+                "answers": [
+                    "RWTH"
+                ],
+                "length": [
+                    "4"
+                ]
+            },
+            {
+                "question": "Aachener Wahrzeichen",
+                "answers": [
+                    "ELISENBRUNNEN"
+                ],
+                "length": [
+                    "13"
+                ]
+            },
+            {
+                "question": "Aachener Wappentier",
+                "answers": [
+                    "ADLER"
+                ],
+                "length": [
+                    "5"
+                ]
+            },
+            {
+                "question": "Aachens gro\u00dfe Saunalandschaft",
+                "answers": [
+                    "CAROLUSTHERMEN"
+                ],
+                "length": [
+                    "14"
+                ]
+            },
+            {
+                "question": "Aal",
+                "answers": [
+                    "SPEISEFISCH"
+                ],
+                "length": [
+                    "11"
+                ]
+            },
+            {
+                "question": "Aal (englisch)",
+                "answers": [
+                    "EEL"
+                ],
+                "length": [
+                    "3"
+                ]
+            },
+            {
+                "question": "Aal des Mittelmeeres",
+                "answers": [
+                    "MURAENE"
+                ],
+                "length": [
+                    "7"
+                ]
+            },
+            {
+                "question": "Aal vor dem Laichen",
+                "answers": [
+                    "BLANKAAL"
+                ],
+                "length": [
+                    "8"
+                ]
+            },
+            {
+                "question": "aal\u00e4hnliche Fische",
+                "answers": [
+                    "NEUNAUGEN"
+                ],
+                "length": [
+                    "9"
+                ]
+            },
+            {
+                "question": "aal\u00e4hnlicher Blindfisch",
+                "answers": [
+                    "INGER"
+                ],
+                "length": [
+                    "5"
+                ]
+            },
+            {
+                "question": "aal\u00e4hnlicher Fisch",
+                "answers": [
+                    "ILGER",
+                    "INGER",
+                    "LAMPRETE",
+                    "MYRUHQIBKSJA",
+                    "BUTTERFISCH",
+                    "SEEAALSUTTIS",
+                    "STEINBEISSER",
+                    "ANGURISFLUSSAAL"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "8",
+                    "8",
+                    "11",
+                    "12",
+                    "12",
+                    "15"
+                ]
+            },
+            {
+                "question": "aal\u00e4hnlicher Fisch",
+                "answers": [
+                    "ILGER",
+                    "INGER",
+                    "LAMPRETE",
+                    "MYRUHQIBKSJA",
+                    "BUTTERFISCH",
+                    "SEEAALSUTTIS",
+                    "STEINBEISSER",
+                    "ANGURISFLUSSAAL"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "8",
+                    "8",
+                    "11",
+                    "12",
+                    "12",
+                    "15"
+                ]
+            },
+            {
+                "question": "aal\u00e4hnlicher Fisch",
+                "answers": [
+                    "ILGER",
+                    "INGER",
+                    "LAMPRETE",
+                    "MYRUHQIBKSJA",
+                    "BUTTERFISCH",
+                    "SEEAALSUTTIS",
+                    "STEINBEISSER",
+                    "ANGURISFLUSSAAL"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "8",
+                    "8",
+                    "11",
+                    "12",
+                    "12",
+                    "15"
+                ]
+            },
+            {
+                "question": "aal\u00e4hnlicher Fisch",
+                "answers": [
+                    "ILGER",
+                    "INGER",
+                    "LAMPRETE",
+                    "MYRUHQIBKSJA",
+                    "BUTTERFISCH",
+                    "SEEAALSUTTIS",
+                    "STEINBEISSER",
+                    "ANGURISFLUSSAAL"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "8",
+                    "8",
+                    "11",
+                    "12",
+                    "12",
+                    "15"
+                ]
+            },
+            {
+                "question": "aal\u00e4hnlicher Fisch",
+                "answers": [
+                    "ILGER",
+                    "INGER",
+                    "LAMPRETE",
+                    "MYRUHQIBKSJA",
+                    "BUTTERFISCH",
+                    "SEEAALSUTTIS",
+                    "STEINBEISSER",
+                    "ANGURISFLUSSAAL"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "8",
+                    "8",
+                    "11",
+                    "12",
+                    "12",
+                    "15"
+                ]
+            },
+            {
+                "question": "aal\u00e4hnlicher Fisch",
+                "answers": [
+                    "ILGER",
+                    "INGER",
+                    "LAMPRETE",
+                    "MYRUHQIBKSJA",
+                    "BUTTERFISCH",
+                    "SEEAALSUTTIS",
+                    "STEINBEISSER",
+                    "ANGURISFLUSSAAL"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "8",
+                    "8",
+                    "11",
+                    "12",
+                    "12",
+                    "15"
+                ]
+            },
+            {
+                "question": "aal\u00e4hnlicher Fisch",
+                "answers": [
+                    "ILGER",
+                    "INGER",
+                    "LAMPRETE",
+                    "MYRUHQIBKSJA",
+                    "BUTTERFISCH",
+                    "SEEAALSUTTIS",
+                    "STEINBEISSER",
+                    "ANGURISFLUSSAAL"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "8",
+                    "8",
+                    "11",
+                    "12",
+                    "12",
+                    "15"
+                ]
+            },
+            {
+                "question": "aal\u00e4hnlicher Fisch",
+                "answers": [
+                    "ILGER",
+                    "INGER",
+                    "LAMPRETE",
+                    "MYRUHQIBKSJA",
+                    "BUTTERFISCH",
+                    "SEEAALSUTTIS",
+                    "STEINBEISSER",
+                    "ANGURISFLUSSAAL"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "8",
+                    "8",
+                    "11",
+                    "12",
+                    "12",
+                    "15"
+                ]
+            },
+            {
+                "question": "aal\u00e4hnlicher Fisch mit Saugmaul",
+                "answers": [
+                    "NEUNAUGE"
+                ],
+                "length": [
+                    "8"
+                ]
+            },
+            {
+                "question": "aal\u00e4hnlicher Raubfisch",
+                "answers": [
+                    "MURAENE"
+                ],
+                "length": [
+                    "7"
+                ]
+            },
+            {
+                "question": "aal\u00e4hnlicher Raubfisch warmer Meere",
+                "answers": [
+                    "MURAENE"
+                ],
+                "length": [
+                    "7"
+                ]
+            },
+            {
+                "question": "aal\u00e4hnliches Meerestier",
+                "answers": [
+                    "INGER",
+                    "OVMSRFHBPKANC"
+                ],
+                "length": [
+                    "5",
+                    "8"
+                ]
+            },
+            {
+                "question": "aal\u00e4hnliches Meerestier",
+                "answers": [
+                    "INGER",
+                    "OVMSRFHBPKANC"
+                ],
+                "length": [
+                    "5",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalart",
+                "answers": [
+                    "INGER"
+                ],
+                "length": [
+                    "5"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Fisch",
+                "answers": [
+                    "INGER",
+                    "PRICKE",
+                    "SEEAAL",
+                    "SUTTIS",
+                    "MAPRETE",
+                    "MEERAAL",
+                    "MURAENE",
+                    "SANDAAL",
+                    "WANGORZ",
+                    "WURMAAL",
+                    "ANGURGIS",
+                    "FLUSSAAL",
+                    "LAMPRETE",
+                    "FHGAL",
+                    "BORNEOAAL",
+                    "GRUBENAAL",
+                    "SCHLINGER",
+                    "PELIKANAAL",
+                    "ROEHRENAAL",
+                    "BUTTERFISCH",
+                    "HECHTCONGER",
+                    "HORNMURAENE",
+                    "LANGHALSAAL",
+                    "NETZMURAENE",
+                    "BREITKOPFAAL",
+                    "EINKIEFERAAL",
+                    "NASENMURAENE",
+                    "IKJQRNWALZME",
+                    "SCHNEPFENAAL",
+                    "YCH",
+                    "TIGERMURAENE",
+                    "ZEBRAMURAENE",
+                    "RIESENMURAENE",
+                    "DRACHENMURAENE",
+                    "GEISTERMURAENE",
+                    "SCHLAMMBEISSER"
+                ],
+                "length": [
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "13",
+                    "14",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalartiger Knochenfisch",
+                "answers": [
+                    "MURAENE"
+                ],
+                "length": [
+                    "7"
+                ]
+            },
+            {
+                "question": "aalartiger Knochenfisch warmer Meere",
+                "answers": [
+                    "MURAENE"
+                ],
+                "length": [
+                    "7"
+                ]
+            },
+            {
+                "question": "aalartiger Meeresfisch",
+                "answers": [
+                    "INGER"
+                ],
+                "length": [
+                    "5"
+                ]
+            },
+            {
+                "question": "aalartiger Meeresraubfisch",
+                "answers": [
+                    "MURAENE"
+                ],
+                "length": [
+                    "7"
+                ]
+            },
+            {
+                "question": "aalartiger Raubfisch",
+                "answers": [
+                    "MURAENE"
+                ],
+                "length": [
+                    "7"
+                ]
+            },
+            {
+                "question": "aalartiger Speisefisch",
+                "answers": [
+                    "NEUNAUGE"
+                ],
+                "length": [
+                    "8"
+                ]
+            },
+            {
+                "question": "aalartiges Meerestier",
+                "answers": [
+                    "NEUNAUGE"
+                ],
+                "length": [
+                    "8"
+                ]
+            },
+            {
+                "question": "aalartiges Wassertier",
+                "answers": [
+                    "NEUNAUGE"
+                ],
+                "length": [
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalauge",
+                "answers": [
+                    "TRUESCHE"
+                ],
+                "length": [
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalbeere",
+                "answers": [
+                    "JOHANNISBEERE"
+                ],
+                "length": [
+                    "13"
+                ]
+            },
+            {
+                "question": "Aalbutt",
+                "answers": [
+                    "ROTZUNGE"
+                ],
+                "length": [
+                    "8"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "aalen",
+                "answers": [
+                    "AUSRUHEN",
+                    "HINHAUEN",
+                    "HINLEGEN",
+                    "LUEMMELN",
+                    "STRECKEN",
+                    "RPC",
+                    "AUSREKELN",
+                    "FAULENZEN",
+                    "GENIESSEN",
+                    "HINREKELN",
+                    "AUSRAEKELN",
+                    "ODG",
+                    "HINLUEMMELN",
+                    "HINSTRECKEN",
+                    "NIEDERLEGEN",
+                    "LANGSTRECKEN",
+                    "DARNIEDERLEGEN",
+                    "HERNIEDERLEGEN"
+                ],
+                "length": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "10",
+                    "11",
+                    "11",
+                    "11",
+                    "12",
+                    "14",
+                    "14"
+                ]
+            },
+            {
+                "question": "Aalfanggabel",
+                "answers": [
+                    "ELGER"
+                ],
+                "length": [
+                    "5"
+                ]
+            },
+            {
+                "question": "Aalfangger\u00e4t",
+                "answers": [
+                    "SACK",
+                    "EISEN",
+                    "ELGER",
+                    "FLETE",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "JTSKMUNR",
+                    "STECHER",
+                    "AALEISEN",
+                    "AALFLETE",
+                    "DFUB"
+                ],
+                "length": [
+                    "4",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalfangger\u00e4t",
+                "answers": [
+                    "SACK",
+                    "EISEN",
+                    "ELGER",
+                    "FLETE",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "JTSKMUNR",
+                    "STECHER",
+                    "AALEISEN",
+                    "AALFLETE",
+                    "DFUB"
+                ],
+                "length": [
+                    "4",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalfangger\u00e4t",
+                "answers": [
+                    "SACK",
+                    "EISEN",
+                    "ELGER",
+                    "FLETE",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "JTSKMUNR",
+                    "STECHER",
+                    "AALEISEN",
+                    "AALFLETE",
+                    "DFUB"
+                ],
+                "length": [
+                    "4",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalfangger\u00e4t",
+                "answers": [
+                    "SACK",
+                    "EISEN",
+                    "ELGER",
+                    "FLETE",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "JTSKMUNR",
+                    "STECHER",
+                    "AALEISEN",
+                    "AALFLETE",
+                    "DFUB"
+                ],
+                "length": [
+                    "4",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalfangger\u00e4t",
+                "answers": [
+                    "SACK",
+                    "EISEN",
+                    "ELGER",
+                    "FLETE",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "JTSKMUNR",
+                    "STECHER",
+                    "AALEISEN",
+                    "AALFLETE",
+                    "DFUB"
+                ],
+                "length": [
+                    "4",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalfangger\u00e4t",
+                "answers": [
+                    "SACK",
+                    "EISEN",
+                    "ELGER",
+                    "FLETE",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "JTSKMUNR",
+                    "STECHER",
+                    "AALEISEN",
+                    "AALFLETE",
+                    "DFUB"
+                ],
+                "length": [
+                    "4",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalfangger\u00e4t",
+                "answers": [
+                    "SACK",
+                    "EISEN",
+                    "ELGER",
+                    "FLETE",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "JTSKMUNR",
+                    "STECHER",
+                    "AALEISEN",
+                    "AALFLETE",
+                    "DFUB"
+                ],
+                "length": [
+                    "4",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalfangger\u00e4t",
+                "answers": [
+                    "SACK",
+                    "EISEN",
+                    "ELGER",
+                    "FLETE",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "JTSKMUNR",
+                    "STECHER",
+                    "AALEISEN",
+                    "AALFLETE",
+                    "DFUB"
+                ],
+                "length": [
+                    "4",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalfangger\u00e4t",
+                "answers": [
+                    "SACK",
+                    "EISEN",
+                    "ELGER",
+                    "FLETE",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "JTSKMUNR",
+                    "STECHER",
+                    "AALEISEN",
+                    "AALFLETE",
+                    "DFUB"
+                ],
+                "length": [
+                    "4",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalfangger\u00e4t",
+                "answers": [
+                    "SACK",
+                    "EISEN",
+                    "ELGER",
+                    "FLETE",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "JTSKMUNR",
+                    "STECHER",
+                    "AALEISEN",
+                    "AALFLETE",
+                    "DFUB"
+                ],
+                "length": [
+                    "4",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalfangger\u00e4t",
+                "answers": [
+                    "SACK",
+                    "EISEN",
+                    "ELGER",
+                    "FLETE",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "JTSKMUNR",
+                    "STECHER",
+                    "AALEISEN",
+                    "AALFLETE",
+                    "DFUB"
+                ],
+                "length": [
+                    "4",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalfangger\u00e4t",
+                "answers": [
+                    "SACK",
+                    "EISEN",
+                    "ELGER",
+                    "FLETE",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "JTSKMUNR",
+                    "STECHER",
+                    "AALEISEN",
+                    "AALFLETE",
+                    "DFUB"
+                ],
+                "length": [
+                    "4",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7",
+                    "7",
+                    "8",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalfangger\u00e4t (Aalgabel)",
+                "answers": [
+                    "ELGER",
+                    "GQMB"
+                ],
+                "length": [
+                    "5",
+                    "5"
+                ]
+            },
+            {
+                "question": "Aalfangger\u00e4t, Aalgabel",
+                "answers": [
+                    "ELGER",
+                    "GQMB"
+                ],
+                "length": [
+                    "5",
+                    "5"
+                ]
+            },
+            {
+                "question": "Aalfangk\u00f6rbe",
+                "answers": [
+                    "REUSEN"
+                ],
+                "length": [
+                    "6"
+                ]
+            },
+            {
+                "question": "aalf\u00f6rmig",
+                "answers": [
+                    "GESCHLAENGELT"
+                ],
+                "length": [
+                    "13"
+                ]
+            },
+            {
+                "question": "aalf\u00f6rmige Meersraubfische",
+                "answers": [
+                    "MURAENEN"
+                ],
+                "length": [
+                    "8"
+                ]
+            },
+            {
+                "question": "aalf\u00f6rmiger Fisch",
+                "answers": [
+                    "ILGER",
+                    "INGER",
+                    "MURAENE",
+                    "LAMPRETE",
+                    "NEUNAUGE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "7",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "aalf\u00f6rmiger Fisch",
+                "answers": [
+                    "ILGER",
+                    "INGER",
+                    "MURAENE",
+                    "LAMPRETE",
+                    "NEUNAUGE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "7",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "aalf\u00f6rmiger Fisch",
+                "answers": [
+                    "ILGER",
+                    "INGER",
+                    "MURAENE",
+                    "LAMPRETE",
+                    "NEUNAUGE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "7",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "aalf\u00f6rmiger Fisch",
+                "answers": [
+                    "ILGER",
+                    "INGER",
+                    "MURAENE",
+                    "LAMPRETE",
+                    "NEUNAUGE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "7",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "aalf\u00f6rmiger Fisch",
+                "answers": [
+                    "ILGER",
+                    "INGER",
+                    "MURAENE",
+                    "LAMPRETE",
+                    "NEUNAUGE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "7",
+                    "8",
+                    "8"
+                ]
+            },
+            {
+                "question": "aalf\u00f6rmiger Fisch, Neunauge",
+                "answers": [
+                    "LAMPRETE"
+                ],
+                "length": [
+                    "8"
+                ]
+            },
+            {
+                "question": "aalf\u00f6rmiger Fischparasit",
+                "answers": [
+                    "NEUNAUGE"
+                ],
+                "length": [
+                    "8"
+                ]
+            },
+            {
+                "question": "aalf\u00f6rmiger Lurch",
+                "answers": [
+                    "OLM"
+                ],
+                "length": [
+                    "3"
+                ]
+            },
+            {
+                "question": "aalf\u00f6rmiger Meeresraubfisch",
+                "answers": [
+                    "MURAENE"
+                ],
+                "length": [
+                    "7"
+                ]
+            },
+            {
+                "question": "aalf\u00f6rmiger Raubfisch",
+                "answers": [
+                    "MURAENE"
+                ],
+                "length": [
+                    "7"
+                ]
+            },
+            {
+                "question": "aalf\u00f6rmiger Schleimfisch",
+                "answers": [
+                    "INGER"
+                ],
+                "length": [
+                    "5"
+                ]
+            },
+            {
+                "question": "aalf\u00f6rmiger Schwanzlurch",
+                "answers": [
+                    "AALMOLCH"
+                ],
+                "length": [
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalgabel",
+                "answers": [
+                    "ELGER",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "STECHER"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7"
+                ]
+            },
+            {
+                "question": "Aalgabel",
+                "answers": [
+                    "ELGER",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "STECHER"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7"
+                ]
+            },
+            {
+                "question": "Aalgabel",
+                "answers": [
+                    "ELGER",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "STECHER"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7"
+                ]
+            },
+            {
+                "question": "Aalgabel",
+                "answers": [
+                    "ELGER",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "STECHER"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7"
+                ]
+            },
+            {
+                "question": "Aalgabel",
+                "answers": [
+                    "ELGER",
+                    "GABEL",
+                    "HAMEN",
+                    "REUSE",
+                    "STECHER"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "5",
+                    "5",
+                    "7"
+                ]
+            },
+            {
+                "question": "aalglatt",
+                "answers": [
+                    "FALSCH",
+                    "AZMNDSPTCBIQXJ",
+                    "AALARTIG",
+                    "SMF",
+                    "ANGEPASST",
+                    "GLITSCHIG",
+                    "SCHMIERIG",
+                    "TUECKISCH",
+                    "RAFFINIERT",
+                    "SCHLUEPFRIG",
+                    "SCHLANGENHAFT"
+                ],
+                "length": [
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "11",
+                    "13"
+                ]
+            },
+            {
+                "question": "aalglatt",
+                "answers": [
+                    "FALSCH",
+                    "AZMNDSPTCBIQXJ",
+                    "AALARTIG",
+                    "SMF",
+                    "ANGEPASST",
+                    "GLITSCHIG",
+                    "SCHMIERIG",
+                    "TUECKISCH",
+                    "RAFFINIERT",
+                    "SCHLUEPFRIG",
+                    "SCHLANGENHAFT"
+                ],
+                "length": [
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "11",
+                    "13"
+                ]
+            },
+            {
+                "question": "aalglatt",
+                "answers": [
+                    "FALSCH",
+                    "AZMNDSPTCBIQXJ",
+                    "AALARTIG",
+                    "SMF",
+                    "ANGEPASST",
+                    "GLITSCHIG",
+                    "SCHMIERIG",
+                    "TUECKISCH",
+                    "RAFFINIERT",
+                    "SCHLUEPFRIG",
+                    "SCHLANGENHAFT"
+                ],
+                "length": [
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "11",
+                    "13"
+                ]
+            },
+            {
+                "question": "aalglatt",
+                "answers": [
+                    "FALSCH",
+                    "AZMNDSPTCBIQXJ",
+                    "AALARTIG",
+                    "SMF",
+                    "ANGEPASST",
+                    "GLITSCHIG",
+                    "SCHMIERIG",
+                    "TUECKISCH",
+                    "RAFFINIERT",
+                    "SCHLUEPFRIG",
+                    "SCHLANGENHAFT"
+                ],
+                "length": [
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "11",
+                    "13"
+                ]
+            },
+            {
+                "question": "aalglatt",
+                "answers": [
+                    "FALSCH",
+                    "AZMNDSPTCBIQXJ",
+                    "AALARTIG",
+                    "SMF",
+                    "ANGEPASST",
+                    "GLITSCHIG",
+                    "SCHMIERIG",
+                    "TUECKISCH",
+                    "RAFFINIERT",
+                    "SCHLUEPFRIG",
+                    "SCHLANGENHAFT"
+                ],
+                "length": [
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "11",
+                    "13"
+                ]
+            },
+            {
+                "question": "aalglatt",
+                "answers": [
+                    "FALSCH",
+                    "AZMNDSPTCBIQXJ",
+                    "AALARTIG",
+                    "SMF",
+                    "ANGEPASST",
+                    "GLITSCHIG",
+                    "SCHMIERIG",
+                    "TUECKISCH",
+                    "RAFFINIERT",
+                    "SCHLUEPFRIG",
+                    "SCHLANGENHAFT"
+                ],
+                "length": [
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "11",
+                    "13"
+                ]
+            },
+            {
+                "question": "aalglatt",
+                "answers": [
+                    "FALSCH",
+                    "AZMNDSPTCBIQXJ",
+                    "AALARTIG",
+                    "SMF",
+                    "ANGEPASST",
+                    "GLITSCHIG",
+                    "SCHMIERIG",
+                    "TUECKISCH",
+                    "RAFFINIERT",
+                    "SCHLUEPFRIG",
+                    "SCHLANGENHAFT"
+                ],
+                "length": [
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "11",
+                    "13"
+                ]
+            },
+            {
+                "question": "aalglatt",
+                "answers": [
+                    "FALSCH",
+                    "AZMNDSPTCBIQXJ",
+                    "AALARTIG",
+                    "SMF",
+                    "ANGEPASST",
+                    "GLITSCHIG",
+                    "SCHMIERIG",
+                    "TUECKISCH",
+                    "RAFFINIERT",
+                    "SCHLUEPFRIG",
+                    "SCHLANGENHAFT"
+                ],
+                "length": [
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "11",
+                    "13"
+                ]
+            },
+            {
+                "question": "aalglatt",
+                "answers": [
+                    "FALSCH",
+                    "AZMNDSPTCBIQXJ",
+                    "AALARTIG",
+                    "SMF",
+                    "ANGEPASST",
+                    "GLITSCHIG",
+                    "SCHMIERIG",
+                    "TUECKISCH",
+                    "RAFFINIERT",
+                    "SCHLUEPFRIG",
+                    "SCHLANGENHAFT"
+                ],
+                "length": [
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "11",
+                    "13"
+                ]
+            },
+            {
+                "question": "aalglatt",
+                "answers": [
+                    "FALSCH",
+                    "AZMNDSPTCBIQXJ",
+                    "AALARTIG",
+                    "SMF",
+                    "ANGEPASST",
+                    "GLITSCHIG",
+                    "SCHMIERIG",
+                    "TUECKISCH",
+                    "RAFFINIERT",
+                    "SCHLUEPFRIG",
+                    "SCHLANGENHAFT"
+                ],
+                "length": [
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "11",
+                    "13"
+                ]
+            },
+            {
+                "question": "aalglatt",
+                "answers": [
+                    "FALSCH",
+                    "AZMNDSPTCBIQXJ",
+                    "AALARTIG",
+                    "SMF",
+                    "ANGEPASST",
+                    "GLITSCHIG",
+                    "SCHMIERIG",
+                    "TUECKISCH",
+                    "RAFFINIERT",
+                    "SCHLUEPFRIG",
+                    "SCHLANGENHAFT"
+                ],
+                "length": [
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "9",
+                    "9",
+                    "9",
+                    "9",
+                    "10",
+                    "11",
+                    "13"
+                ]
+            },
+            {
+                "question": "aalglatt (abwertend)",
+                "answers": [
+                    "SCHLEIMIG",
+                    "JBOETPRLQNDSGA"
+                ],
+                "length": [
+                    "9",
+                    "18"
+                ]
+            },
+            {
+                "question": "aalglatt (abwertend)",
+                "answers": [
+                    "SCHLEIMIG",
+                    "JBOETPRLQNDSGA"
+                ],
+                "length": [
+                    "9",
+                    "18"
+                ]
+            },
+            {
+                "question": "aalglatt (bildungssprachlich)",
+                "answers": [
+                    "OPPORTUNISTISCH"
+                ],
+                "length": [
+                    "15"
+                ]
+            },
+            {
+                "question": "Aalkr\u00e4he",
+                "answers": [
+                    "KORMORAN"
+                ],
+                "length": [
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalmolch",
+                "answers": [
+                    "OLM"
+                ],
+                "length": [
+                    "3"
+                ]
+            },
+            {
+                "question": "Aalmutter",
+                "answers": [
+                    "KNOCHENFISCH"
+                ],
+                "length": [
+                    "12"
+                ]
+            },
+            {
+                "question": "Aalmutter (besonders norddeutsch)",
+                "answers": [
+                    "AALQUAPPE"
+                ],
+                "length": [
+                    "9"
+                ]
+            },
+            {
+                "question": "Aalquappe",
+                "answers": [
+                    "RUPPE",
+                    "GUNDTIPY",
+                    "RUETTE",
+                    "TRUESCHE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "6",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalquappe",
+                "answers": [
+                    "RUPPE",
+                    "GUNDTIPY",
+                    "RUETTE",
+                    "TRUESCHE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "6",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalquappe",
+                "answers": [
+                    "RUPPE",
+                    "GUNDTIPY",
+                    "RUETTE",
+                    "TRUESCHE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "6",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalquappe",
+                "answers": [
+                    "RUPPE",
+                    "GUNDTIPY",
+                    "RUETTE",
+                    "TRUESCHE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "6",
+                    "8"
+                ]
+            },
+            {
+                "question": "Aalraupe",
+                "answers": [
+                    "RUPPE",
+                    "RUTTE",
+                    "QUAPPE",
+                    "RUETTE",
+                    "RUFOLK",
+                    "QUAPPAAL",
+                    "RUFOLKEN",
+                    "TRUESCHE",
+                    "WELSQUAPPE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "8",
+                    "10"
+                ]
+            },
+            {
+                "question": "Aalraupe",
+                "answers": [
+                    "RUPPE",
+                    "RUTTE",
+                    "QUAPPE",
+                    "RUETTE",
+                    "RUFOLK",
+                    "QUAPPAAL",
+                    "RUFOLKEN",
+                    "TRUESCHE",
+                    "WELSQUAPPE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "8",
+                    "10"
+                ]
+            },
+            {
+                "question": "Aalraupe",
+                "answers": [
+                    "RUPPE",
+                    "RUTTE",
+                    "QUAPPE",
+                    "RUETTE",
+                    "RUFOLK",
+                    "QUAPPAAL",
+                    "RUFOLKEN",
+                    "TRUESCHE",
+                    "WELSQUAPPE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "8",
+                    "10"
+                ]
+            },
+            {
+                "question": "Aalraupe",
+                "answers": [
+                    "RUPPE",
+                    "RUTTE",
+                    "QUAPPE",
+                    "RUETTE",
+                    "RUFOLK",
+                    "QUAPPAAL",
+                    "RUFOLKEN",
+                    "TRUESCHE",
+                    "WELSQUAPPE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "8",
+                    "10"
+                ]
+            },
+            {
+                "question": "Aalraupe",
+                "answers": [
+                    "RUPPE",
+                    "RUTTE",
+                    "QUAPPE",
+                    "RUETTE",
+                    "RUFOLK",
+                    "QUAPPAAL",
+                    "RUFOLKEN",
+                    "TRUESCHE",
+                    "WELSQUAPPE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "8",
+                    "10"
+                ]
+            },
+            {
+                "question": "Aalraupe",
+                "answers": [
+                    "RUPPE",
+                    "RUTTE",
+                    "QUAPPE",
+                    "RUETTE",
+                    "RUFOLK",
+                    "QUAPPAAL",
+                    "RUFOLKEN",
+                    "TRUESCHE",
+                    "WELSQUAPPE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "8",
+                    "10"
+                ]
+            },
+            {
+                "question": "Aalraupe",
+                "answers": [
+                    "RUPPE",
+                    "RUTTE",
+                    "QUAPPE",
+                    "RUETTE",
+                    "RUFOLK",
+                    "QUAPPAAL",
+                    "RUFOLKEN",
+                    "TRUESCHE",
+                    "WELSQUAPPE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "8",
+                    "10"
+                ]
+            },
+            {
+                "question": "Aalraupe",
+                "answers": [
+                    "RUPPE",
+                    "RUTTE",
+                    "QUAPPE",
+                    "RUETTE",
+                    "RUFOLK",
+                    "QUAPPAAL",
+                    "RUFOLKEN",
+                    "TRUESCHE",
+                    "WELSQUAPPE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "8",
+                    "10"
+                ]
+            },
+            {
+                "question": "Aalraupe",
+                "answers": [
+                    "RUPPE",
+                    "RUTTE",
+                    "QUAPPE",
+                    "RUETTE",
+                    "RUFOLK",
+                    "QUAPPAAL",
+                    "RUFOLKEN",
+                    "TRUESCHE",
+                    "WELSQUAPPE"
+                ],
+                "length": [
+                    "5",
+                    "5",
+                    "6",
+                    "6",
+                    "6",
+                    "8",
+                    "8",
+                    "8",
+                    "10"
+                ]
+            },
+            {
+                "question": "Aalrutte, Quappe",
+                "answers": [
+                    "TRUESCHE"
+                ],
+                "length": [
+                    "8"
+                ]
+            }
+        ]
+    }
+]

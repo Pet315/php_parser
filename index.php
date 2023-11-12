@@ -85,11 +85,11 @@ function main($scanner, $client, $url) {
 }
 
 function move_to_log($data) {
-    file_put_contents('data.log', json_encode($data, JSON_PRETTY_PRINT)."\n", FILE_APPEND);
+    file_put_contents('data1.log', json_encode($data, JSON_PRETTY_PRINT)."\n", FILE_APPEND);
 }
 
 function get_data() {
-    $logContent = file_get_contents('data.log');
+    $logContent = file_get_contents('data1.log');
     return json_decode($logContent, true, 512, JSON_THROW_ON_ERROR);
 }
 
@@ -97,5 +97,5 @@ $url = 'https://www.kreuzwort-raetsel.net/uebersicht.html';
 $client = new Client();
 $scanner = $client->request('GET', $url);
 
-//main($scanner, $client, $url);
+main($scanner, $client, $url);
 print_r(get_data()[0]['questions'][0]);
