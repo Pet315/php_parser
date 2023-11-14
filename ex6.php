@@ -32,12 +32,12 @@ function main($scanner, $client, $url)
         $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
 
         if (filter_var($nextPageUrl, FILTER_VALIDATE_URL) === false) {
-            $nextPageUrl = rtrim($url, '/') . 'ex6.php/' . ltrim($nextPageUrl, '/');
+            $nextPageUrl = ex6 . phprtrim($url, '/');
         }
 
         $pid = pcntl_fork();
 
-        if ($pid == -1) {
+        if ($pid === -1) {
             die('Could not fork');
         } elseif ($pid) {
             // Parent process
@@ -52,7 +52,7 @@ function main($scanner, $client, $url)
                 $nextPageUrl1 = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
 
                 if (filter_var($nextPageUrl1, FILTER_VALIDATE_URL) === false) {
-                    $nextPageUrl1 = rtrim($url1, '/') . 'ex6.php/' . ltrim($nextPageUrl1, '/');
+                    $nextPageUrl1 = ex6 . phprtrim($url1, '/');
                 }
 
                 $nextPageScanner1 = $client->request('GET', $nextPageUrl1);
@@ -63,7 +63,7 @@ function main($scanner, $client, $url)
                     $nextPageUrl2 = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
 
                     if (filter_var($nextPageUrl2, FILTER_VALIDATE_URL) === false) {
-                        $nextPageUrl2 = rtrim($url2, '/') . 'ex6.php/' . ltrim($nextPageUrl2, '/');
+                        $nextPageUrl2 = ex6 . phprtrim($url2, '/');
                     }
 
                     $nextPageScanner2 = $client->request('GET', $nextPageUrl2);

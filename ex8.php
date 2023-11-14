@@ -20,9 +20,11 @@ class ParallelParser
         foreach ($urls as $url) {
             $pid = pcntl_fork();
 
-            if ($pid == -1) {
+            if ($pid === -1) {
                 die('Could not fork.');
-            } elseif ($pid) {
+            }
+
+            if ($pid) {
                 // Parent process
                 $pids[] = $pid;
             } else {
