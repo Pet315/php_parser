@@ -32,7 +32,7 @@ function main($scanner, $client, $url)
         $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
 
         if (filter_var($nextPageUrl, FILTER_VALIDATE_URL) === false) {
-            $nextPageUrl = ex6 . phprtrim($url, '/');
+            $nextPageUrl = phprtrim($url, '/');
         }
 
         $pid = pcntl_fork();
@@ -52,7 +52,7 @@ function main($scanner, $client, $url)
                 $nextPageUrl1 = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
 
                 if (filter_var($nextPageUrl1, FILTER_VALIDATE_URL) === false) {
-                    $nextPageUrl1 = ex6 . phprtrim($url1, '/');
+                    $nextPageUrl1 = phprtrim($url1, '/');
                 }
 
                 $nextPageScanner1 = $client->request('GET', $nextPageUrl1);
@@ -63,7 +63,7 @@ function main($scanner, $client, $url)
                     $nextPageUrl2 = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
 
                     if (filter_var($nextPageUrl2, FILTER_VALIDATE_URL) === false) {
-                        $nextPageUrl2 = ex6 . phprtrim($url2, '/');
+                        $nextPageUrl2 = phprtrim($url2, '/');
                     }
 
                     $nextPageScanner2 = $client->request('GET', $nextPageUrl2);
