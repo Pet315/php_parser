@@ -23,11 +23,11 @@ function parsePage2($crawler)
     ];
 }
 
-function main($scanner, $client, $url)
+function main($crawler, $client, $url)
 {
     $letters = [];
 
-    $scanner->filter('.dnrg li a')->each(function ($link) use ($client, &$url, &$letters) {
+    $crawler->filter('.dnrg li a')->each(function ($link) use ($client, &$url, &$letters) {
         $letter = $link->attr('href');
         $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
 
@@ -36,6 +36,7 @@ function main($scanner, $client, $url)
         }
 
         $pid = pcntl_fork();
+        $pages = [];
 
         if ($pid === -1) {
             die('Could not fork');
@@ -44,10 +45,9 @@ function main($scanner, $client, $url)
             pcntl_wait($status);
         } else {
             // Child process
-            $nextPageScanner = $client->request('GET', $nextPageUrl);
-            $pages = [];
+            $nextPageCrawler = $client->request('GET', $nextPageUrl);
 
-            $nextPageScanner->filter('.dnrg li a')->each(function ($link) use ($client, &$url1, &$pages) {
+            $nextPageCrawler->filter('.dnrg li a')->each(function ($link) use ($client, &$url1, &$pages) {
                 $page = $link->attr('href');
                 $nextPageUrl1 = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
 
@@ -55,10 +55,10 @@ function main($scanner, $client, $url)
                     $nextPageUrl1 = phprtrim($url1, '/');
                 }
 
-                $nextPageScanner1 = $client->request('GET', $nextPageUrl1);
+                $nextPageCrawler1 = $client->request('GET', $nextPageUrl1);
                 $questions = [];
 
-                $nextPageScanner1->filter('.Question a')->each(function ($link) use ($client, &$url2, &$questions) {
+                $nextPageCrawler1->filter('.Question a')->each(function ($link) use ($client, &$url2, &$questions) {
                     $question = $link->text();
                     $nextPageUrl2 = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
 
@@ -66,8 +66,8 @@ function main($scanner, $client, $url)
                         $nextPageUrl2 = phprtrim($url2, '/');
                     }
 
-                    $nextPageScanner2 = $client->request('GET', $nextPageUrl2);
-                    $answersLength = parsePage2($nextPageScanner2);
+                    $nextPageCrawler2 = $client->request('GET', $nextPageUrl2);
+                    $answersLength = parsePage2($nextPageCrawler2);
 
                     $url2 = $nextPageUrl2;
                     $questions[] = [
@@ -105,6 +105,6 @@ function move_to_log($data)
 
 $url = 'https://www.kreuzwort-raetsel.net/uebersicht.html';
 $client = new Client();
-$scanner = $client->request('GET', $url);
+$crawler = $client->request('GET', $url);
 
-main($scanner, $client, $url);
+main($crawler, $client, $url);

@@ -61,7 +61,6 @@ class ParallelParser
     }
 }
 
-// Пример использования парсера
 $parser = new ParallelParser();
 $urls = ['https://ru.wikipedia.org/wiki/Чудеса_света', 'https://ru.wikipedia.org/wiki/Семь_новых_чудес_природы'];
 
