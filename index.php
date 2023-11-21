@@ -7,21 +7,40 @@ use Monolog\Handler\StreamHandler;
 
 function parsePage($crawler)
 {
-    $answers = [];
-    $length = [];
+    $headers = [];
 
-    $crawler->filter('.Answer a')->each(function ($node) use (&$answers) {
-        $answers[] = $node->text();
-    });
-
-    $crawler->filter('tbody .Length')->each(function ($node) use (&$length) {
-        $length[] = $node->text();
+    $crawler->filter('h2')->each(function ($node) use (&$headers) {
+        $headers[] = $node->text();
     });
 
     return [
-        'answers' => $answers,
-        'length' => $length
+        'headers' => $headers
     ];
+}
+
+function getData($logger) {
+    $logger->info('Printing logger data:');
+    foreach ($logger->getHandlers() as $handler) {
+
+        $url = $handler->getUrl();
+        $fp = fopen($url, 'r');
+        $data = fread($fp, filesize($url));
+        fclose($fp);
+
+        $messages = explode("\n", $data);
+        $objects = [];
+
+        foreach ($messages as $message) {
+            $startIndex = strpos($message, "{");
+            if ($startIndex) {
+                $extractedData = substr($message, $startIndex);
+                $objects[] = json_decode(substr($extractedData, 0, -2));
+            }
+        }
+
+        print_r($objects);
+//    print_r($objects[0]->data->headers[0]);
+    }
 }
 
 $logger = new Logger('my_logger');
@@ -54,7 +73,9 @@ $crawler->filter('.dnrg li a')->each(function ($link) use ($client, $logger) {
 });
 
 while (pcntl_wait($status) != -1) {
-    // ...
+
 }
+
+getData($logger);
 
 exit();
