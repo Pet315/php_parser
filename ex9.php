@@ -97,5 +97,15 @@ $url = 'https://www.kreuzwort-raetsel.net/uebersicht.html';
 $client = new Client();
 $crawler = $client->request('GET', $url);
 
-main($crawler, $client, $url);
-print_r(get_data()[0]['questions'][0]);
+//main($crawler, $client, $url);
+//print_r(get_data()[0]['questions'][0]);
+//
+//$name = 'a';
+//var_dump([
+//    (string)$name => 15
+//]);
+
+$name = null;
+if(!$name) {
+    echo 'hello';
+}

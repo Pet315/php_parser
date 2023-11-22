@@ -5,30 +5,44 @@ use Goutte\Client;
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
 
-function parsePage($crawler, $text='.dnrg li')
+function parsePage($crawler, $tag)
 {
-    $links = [];
+    if ($tag) {
+        $data = [];
+        $crawler->filter($tag)->each(function ($node) use (&$data) {
+            $data[] = $node->text();
+        });
+        return $data;
+    }
 
-    $crawler->filter($text.' a')->each(function ($node) use (&$links) {
-        $links[] = $node->text();
+    $answers = [];
+    $length = [];
+
+    $crawler->filter('.Answer a')->each(function ($node) use (&$answers) {
+        $answers[] = $node->text();
+    });
+
+    $crawler->filter('tbody .Length')->each(function ($node) use (&$length) {
+        $length[] = $node->text();
     });
 
     return [
-        'links' => $links
+        'answers' => $answers,
+        'length' => $length
     ];
 }
 
-function run($nextPageUrl, $number=1) {
+function run($nextPageUrl, $message, $number=1, $tag='.dnrg li a') {
     $logger = new Logger('logger');
     $streamHandler = new StreamHandler('logs/log'.$number.'.log', Logger::INFO);
     $logger->pushHandler($streamHandler);
     $client = new Client();
     $nextPageCrawler = $client->request('GET', $nextPageUrl);
-    $data = parsePage($nextPageCrawler);
+    $data = parsePage($nextPageCrawler, $tag);
 
     $logger->addRecord(
         Logger::INFO,
-        'Page analysis',
+        $message,
         ['url' => $nextPageUrl, 'data' => $data]
     );
 
@@ -70,15 +84,24 @@ $crawler->filter('.dnrg li a')->each(function ($link) use ($client) {
 
     $pid1 = pcntl_fork();
     if ($pid1 === 0) {
-        $nextPageUrl = run($nextPageUrl);
+        $nextPageUrl = run($nextPageUrl, 'Letters-Pages');
 
         $crawler2 = $client->request('GET', $nextPageUrl);
-        $crawler2->filter('.dnrg li a')->each(function ($link) {
+        $crawler2->filter('.dnrg li a')->each(function ($link) use ($client) {
             $page = $link->attr('href');
             $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $page;
             $pid2 = pcntl_fork();
             if ($pid2 === 0) {
-                $nextPageUrl = run($nextPageUrl, 2);
+                $nextPageUrl = run($nextPageUrl, 'Pages-Questions', 2, '.Question a');
+                $crawler3 = $client->request('GET', $nextPageUrl);
+                $crawler3->filter('.Question a')->each(function ($link) use ($client) {
+                    $page = $link->attr('href');
+                    $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $page;
+                    $pid3 = pcntl_fork();
+                    if ($pid3 === 0) {
+                        run($nextPageUrl, 'Questions-Answers-Length', 3, null);
+                    }
+                });
             }
         });
 
