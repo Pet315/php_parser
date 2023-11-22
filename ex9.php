@@ -25,7 +25,7 @@ function main($crawler, $client, $url) {
     $letters = [];
     $crawler->filter('.dnrg li a')->each(function ($link) use ($client, &$url, &$letters) {
         $letter = $link->attr('href');
-        $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
+        $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $letter;
 
         if (filter_var($nextPageUrl, FILTER_VALIDATE_URL) === false) {
             $nextPageUrl = rtrim($url, '/') . '/' . ltrim($nextPageUrl, '/');
@@ -37,7 +37,7 @@ function main($crawler, $client, $url) {
         $pages = [];
         $nextPageCrawler->filter('.dnrg li a')->each(function ($link) use ($client, &$url1, &$pages) {
             $page = $link->attr('href');
-            $nextPageUrl1 = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
+            $nextPageUrl1 = 'https://www.kreuzwort-raetsel.net/' . $page;
 
             if (filter_var($nextPageUrl1, FILTER_VALIDATE_URL) === false) {
                 $nextPageUrl1 = rtrim($url1, '/') . '/' . ltrim($nextPageUrl1, '/');
