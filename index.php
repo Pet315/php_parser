@@ -46,6 +46,7 @@ function run($nextPageUrl, $header) {
 }
 
 function connect_to_db($crossword) {
+    $status = '';
     foreach ($crossword['answer_length'] as $word) {
 //        print_r($word);
         $db = new PDO('mysql:host=localhost;dbname=php_parser', 'root', '2731');
@@ -55,11 +56,11 @@ function connect_to_db($crossword) {
         $stmt->bindParam(':answer', $word['answer']);
         $stmt->bindParam(':length', $word['length']);
         $stmt->execute();
-        if ($stmt->rowCount() > 0) {
-            return "success\n";
+        if ($stmt->rowCount() <= 0) {
+            echo 'error';
         }
-        echo 'error';
     }
+    return "success\n";
 }
 
 $client = new Client();
@@ -70,31 +71,31 @@ $crawler->filter('.dnrg li a')->each(function ($link) use ($client) {
     $letter = $link->attr('href');
     $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $letter;
 
-//    $pid1 = pcntl_fork();
-//    if ($pid1 === 0) {
+    $pid1 = pcntl_fork();
+    if ($pid1 === 0) {
         $crawler2 = $client->request('GET', $nextPageUrl);
         $crawler2->filter('.dnrg li a')->each(function ($link) use ($client) {
             $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
-//            $pid2 = pcntl_fork();
-//            if ($pid2 === 0) {
+            $pid2 = pcntl_fork();
+            if ($pid2 === 0) {
                 $status = "";
                 $crawler3 = $client->request('GET', $nextPageUrl);
                 $crawler3->filter('.Question a')->each(function ($link) use (&$status) {
                     $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
-//                    $pid3 = pcntl_fork();
-//                    if ($pid3 === 0) {
+                    $pid3 = pcntl_fork();
+                    if ($pid3 === 0) {
                         $status = connect_to_db(run($nextPageUrl, $link->text()));
-//                    }
+                    }
                 });
                 echo $status;
-//            }
+            }
         });
 
         exit();
-//    }
+    }
 });
 
-//while (pcntl_wait($status) !== -1) {
-//}
+while (pcntl_wait($status) !== -1) {
+}
 
 exit();
