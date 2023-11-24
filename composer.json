@@ -1,7 +1,7 @@
 {
     "require": {
-        "fabpot/goutte": "^4.0",
-      "ext-pcntl": "*",
-        "monolog/monolog": "^3.5"
+      "fabpot/goutte": "^4.0",
+      "monolog/monolog": "^3.5",
+      "ext-pdo": "*"
     }
 }

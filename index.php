@@ -5,72 +5,60 @@ use Goutte\Client;
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
 
-function parsePage($crawler, $tag)
+function parsePage($crawler)
 {
-    if ($tag) {
-        $data = [];
-        $crawler->filter($tag)->each(function ($node) use (&$data) {
-            $data[] = $node->text();
-        });
-        return $data;
-    }
-
     $answers = [];
-    $length = [];
+    $answers_length = [];
 
     $crawler->filter('.Answer a')->each(function ($node) use (&$answers) {
         $answers[] = $node->text();
     });
 
-    $crawler->filter('tbody .Length')->each(function ($node) use (&$length) {
-        $length[] = $node->text();
+    $crawler->filter('tbody .Length')->each(function ($node) use (&$answers_length, &$answers) {
+        $i = count($answers_length);
+        $answers_length[] = [
+            'answer' => $answers[$i],
+            'length' => $node->text()
+        ];
     });
 
-    return [
-        'answers' => $answers,
-        'length' => $length
-    ];
+    return $answers_length;
 }
 
-function run($nextPageUrl, $message, $number=1, $tag='.dnrg li a') {
+function run($nextPageUrl, $header) {
     $logger = new Logger('logger');
-    $streamHandler = new StreamHandler('logs/log'.$number.'.log', Logger::INFO);
+    $streamHandler = new StreamHandler('logs1/data.log', Logger::INFO);
     $logger->pushHandler($streamHandler);
     $client = new Client();
     $nextPageCrawler = $client->request('GET', $nextPageUrl);
-    $data = parsePage($nextPageCrawler, $tag);
 
+    $content = parsePage($nextPageCrawler);
     $logger->addRecord(
         Logger::INFO,
-        $message,
-        ['url' => $nextPageUrl, 'data' => $data]
+        'Page link',
+        [$nextPageUrl]
     );
 
-    return $nextPageUrl;
+    return [
+        'question' => $header,
+        'answer_length' => $content
+    ];
 }
 
-function getData($logger) {
-    $logger->info('Printing logger data:');
-    foreach ($logger->getHandlers() as $handler) {
-
-        $url = $handler->getUrl();
-        $fp = fopen($url, 'r');
-        $data = fread($fp, filesize($url));
-        fclose($fp);
-
-        $messages = explode("\n", $data);
-        $objects = [];
-
-        foreach ($messages as $message) {
-            $startIndex = strpos($message, "{");
-            if ($startIndex) {
-                $extractedData = substr($message, $startIndex);
-                $objects[] = json_decode(substr($extractedData, 0, -2));
-            }
+function connect_to_db($crossword) {
+    foreach ($crossword['answer_length'] as $word) {
+//        print_r($word);
+        $db = new PDO('mysql:host=localhost;dbname=php_parser', 'root', '2731');
+        $sql = "INSERT INTO crossword (question, answer, length) VALUES (:question, :answer, :length)";
+        $stmt = $db->prepare($sql);
+        $stmt->bindParam(':question', $crossword['question']);
+        $stmt->bindParam(':answer', $word['answer']);
+        $stmt->bindParam(':length', $word['length']);
+        $stmt->execute();
+        if ($stmt->rowCount() > 0) {
+            return "success\n";
         }
-
-        print_r($objects);
-//    print_r($objects[0]->data->headers[0]);
+        echo 'error';
     }
 }
 
@@ -82,36 +70,31 @@ $crawler->filter('.dnrg li a')->each(function ($link) use ($client) {
     $letter = $link->attr('href');
     $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $letter;
 
-    $pid1 = pcntl_fork();
-    if ($pid1 === 0) {
-        $nextPageUrl = run($nextPageUrl, 'Letters-Pages');
-
+//    $pid1 = pcntl_fork();
+//    if ($pid1 === 0) {
         $crawler2 = $client->request('GET', $nextPageUrl);
         $crawler2->filter('.dnrg li a')->each(function ($link) use ($client) {
-            $page = $link->attr('href');
-            $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $page;
-            $pid2 = pcntl_fork();
-            if ($pid2 === 0) {
-                $nextPageUrl = run($nextPageUrl, 'Pages-Questions', 2, '.Question a');
+            $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
+//            $pid2 = pcntl_fork();
+//            if ($pid2 === 0) {
+                $status = "";
                 $crawler3 = $client->request('GET', $nextPageUrl);
-                $crawler3->filter('.Question a')->each(function ($link) use ($client) {
-                    $page = $link->attr('href');
-                    $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $page;
-                    $pid3 = pcntl_fork();
-                    if ($pid3 === 0) {
-                        run($nextPageUrl, 'Questions-Answers-Length', 3, null);
-                    }
+                $crawler3->filter('.Question a')->each(function ($link) use (&$status) {
+                    $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
+//                    $pid3 = pcntl_fork();
+//                    if ($pid3 === 0) {
+                        $status = connect_to_db(run($nextPageUrl, $link->text()));
+//                    }
                 });
-            }
+                echo $status;
+//            }
         });
 
         exit();
-    }
+//    }
 });
 
-while (pcntl_wait($status) !== -1) {
-}
-
-//getData($logger);
+//while (pcntl_wait($status) !== -1) {
+//}
 
 exit();
