@@ -34,7 +34,7 @@ function parsePage($crawler, $tag)
 
 function run($nextPageUrl, $message, $number=1, $tag='.dnrg li a') {
     $logger = new Logger('logger');
-    $streamHandler = new StreamHandler('logs1/log'.$number.'.log', Logger::INFO);
+    $streamHandler = new StreamHandler('logs/log'.$number.'.log', Logger::INFO);
     $logger->pushHandler($streamHandler);
     $client = new Client();
     $nextPageCrawler = $client->request('GET', $nextPageUrl);

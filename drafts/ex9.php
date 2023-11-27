@@ -39,7 +39,7 @@ function main($crawler, $client, $url) {
             $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $letter;
 
             if (filter_var($nextPageUrl, FILTER_VALIDATE_URL) === false) {
-                $nextPageUrl = rtrim($url, '/') . '/' . ltrim($nextPageUrl, '/');
+                $nextPageUrl = rtrim($url, '/') . 'ex9.php/' . ltrim($nextPageUrl, '/');
             }
 
             $nextPageCrawler = $client->request('GET', $nextPageUrl);
@@ -51,7 +51,7 @@ function main($crawler, $client, $url) {
                 $nextPageUrl1 = 'https://www.kreuzwort-raetsel.net/' . $page;
 
                 if (filter_var($nextPageUrl1, FILTER_VALIDATE_URL) === false) {
-                    $nextPageUrl1 = rtrim($url1, '/') . '/' . ltrim($nextPageUrl1, '/');
+                    $nextPageUrl1 = rtrim($url1, '/') . 'ex9.php/' . ltrim($nextPageUrl1, '/');
                 }
 
                 $nextPageCrawler1 = $client->request('GET', $nextPageUrl1);
@@ -63,7 +63,7 @@ function main($crawler, $client, $url) {
                     $nextPageUrl2 = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
 
                     if (filter_var($nextPageUrl2, FILTER_VALIDATE_URL) === false) {
-                        $nextPageUrl2 = rtrim($url2, '/') . '/' . ltrim($nextPageUrl2, '/');
+                        $nextPageUrl2 = rtrim($url2, '/') . 'ex9.php/' . ltrim($nextPageUrl2, '/');
                     }
 
                     $nextPageCrawler2 = $client->request('GET', $nextPageUrl2);
