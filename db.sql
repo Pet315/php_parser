@@ -3,7 +3,7 @@ use php_parser;
 
 -- ALTER TABLE questions RENAME crossword;
 -- SELECT COUNT(*) FROM crossword;
-DROP TABLE crossword;
+DROP TABLE IF EXISTS crossword;
 
 CREATE TABLE IF NOT EXISTS `crossword` (
     `id` int(11) NOT NULL AUTO_INCREMENT,
