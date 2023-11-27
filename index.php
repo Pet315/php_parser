@@ -72,7 +72,7 @@ function connect_to_db($crossword) {
             }
         }
     }
-    return "success\n";
+    return "next page\n";
 }
 
 $client = new Client();
@@ -107,7 +107,7 @@ $crawler->filter('.dnrg li a')->each(function ($link) use ($client) {
     }
 });
 
-while (pcntl_wait($status) !== -1) {
-}
+//while (pcntl_wait($status) !== -1) {
+//}
 
 exit();
