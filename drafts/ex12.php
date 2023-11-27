@@ -83,31 +83,19 @@ $crawler->filter('.dnrg li a')->each(function ($link) use ($client) {
     $letter = $link->attr('href');
     $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $letter;
 
-    $pid1 = pcntl_fork();
-    if ($pid1) {
-        $crawler2 = $client->request('GET', $nextPageUrl);
-        $crawler2->filter('.dnrg li a')->each(function ($link) use ($client) {
+    $crawler2 = $client->request('GET', $nextPageUrl);
+    $crawler2->filter('.dnrg li a')->each(function ($link) use ($client) {
+        $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
+        $process = "";
+        $crawler3 = $client->request('GET', $nextPageUrl);
+        $crawler3->filter('.Question a')->each(function ($link) use (&$process) {
             $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
-            $pid2 = pcntl_fork();
-            if ($pid2) {
-                $process = "";
-                $crawler3 = $client->request('GET', $nextPageUrl);
-                $crawler3->filter('.Question a')->each(function ($link) use (&$process) {
-                    $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
-                    $pid3 = pcntl_fork();
-                    if ($pid3) {
-                        $process = connect_to_db(run($nextPageUrl, $link->text()));
-                    }
-                });
-                echo $process;
-            }
+            $process = connect_to_db(run($nextPageUrl, $link->text()));
         });
+        echo $process;
+    });
 
-        exit();
-    }
+    exit();
 });
-
-while (pcntl_wait($status) !== -1) {
-}
 
 exit();
