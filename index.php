@@ -48,7 +48,7 @@ function run($nextPageUrl, $header) {
 
 function connect_to_db($crossword) {
     foreach ($crossword['answer_length'] as $word) {
-        $db = new PDO('mysql:host=localhost;dbname=php_parser', 'root', '2731');
+        $db = new PDO('mysql:host=localhost;dbname=php_parser', 'root', '12345678');
         $sql = "SELECT COUNT(*) AS count FROM crossword WHERE question = :question AND answer = :answer;";
         $stmt = $db->prepare($sql);
         $stmt->bindParam(':question', $crossword['question']);
