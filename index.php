@@ -104,7 +104,7 @@ $crawler->filter('.dnrg li a')->each(function ($link) use ($client) {
         });
 
         exit();
-//    }
+    }
 });
 
 while (pcntl_wait($status) !== -1) {
