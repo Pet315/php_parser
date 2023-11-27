@@ -27,6 +27,7 @@ function parsePage($crawler)
 
 function run($nextPageUrl, $header) {
     $logger = new Logger('logger');
+
     $streamHandler = new StreamHandler('logs/data.log', Logger::INFO);
     $logger->pushHandler($streamHandler);
     $client = new Client();
@@ -46,7 +47,6 @@ function run($nextPageUrl, $header) {
 }
 
 function connect_to_db($crossword) {
-    $status = '';
     foreach ($crossword['answer_length'] as $word) {
         $db = new PDO('mysql:host=localhost;dbname=php_parser', 'root', '2731');
         $sql = "SELECT COUNT(*) AS count FROM crossword WHERE question = :question AND answer = :answer;";
@@ -57,14 +57,18 @@ function connect_to_db($crossword) {
         $result = $stmt->fetch();
 
         if ($result['count'] === 0) {
-            $sql = "INSERT INTO crossword (question, answer, length) VALUES (:question, :answer, :length)";
-            $stmt = $db->prepare($sql);
-            $stmt->bindParam(':question', $crossword['question']);
-            $stmt->bindParam(':answer', $word['answer']);
-            $stmt->bindParam(':length', $word['length']);
-            $stmt->execute();
-            if ($stmt->rowCount() <= 0) {
-                echo 'error';
+            try {
+                $sql = "INSERT INTO crossword (question, answer, length) VALUES (:question, :answer, :length)";
+                $stmt = $db->prepare($sql);
+                $stmt->bindParam(':question', $crossword['question']);
+                $stmt->bindParam(':answer', $word['answer']);
+                $stmt->bindParam(':length', $word['length']);
+                $stmt->execute();
+            } catch (PDOException $e) {
+                $logger1 = new Logger('logger');
+                $streamHandler = new StreamHandler('logs/debug.log', Logger::DEBUG);
+                $logger1->pushHandler($streamHandler);
+                $logger1->debug("Error: " . $e->getMessage());
             }
         }
     }
@@ -100,7 +104,7 @@ $crawler->filter('.dnrg li a')->each(function ($link) use ($client) {
         });
 
         exit();
-    }
+//    }
 });
 
 while (pcntl_wait($status) !== -1) {
