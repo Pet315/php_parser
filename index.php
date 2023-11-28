@@ -79,23 +79,24 @@ $client = new Client();
 $url = 'https://www.kreuzwort-raetsel.net/uebersicht.html';
 $crawler = $client->request('GET', $url);
 
-$crawler->filter('.dnrg li a')->each(function ($link) use ($client) {
+$nextPageUrl = '';
+$crawler->filter('.dnrg li a')->each(function ($link) use ($client, &$nextPageUrl) {
     $letter = $link->attr('href');
     $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $letter;
-
     $crawler2 = $client->request('GET', $nextPageUrl);
-    $crawler2->filter('.dnrg li a')->each(function ($link) use ($client) {
-        $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
-        $process = "";
-        $crawler3 = $client->request('GET', $nextPageUrl);
-        $crawler3->filter('.Question a')->each(function ($link) use (&$process) {
-            $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
-            $process = connect_to_db(run($nextPageUrl, $link->text()));
+
+    $nextPageUrl2 = '';
+    $crawler2->filter('.dnrg li a')->each(function ($link) use ($client, &$nextPageUrl2) {
+        $nextPageUrl2 = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
+        $crawler3 = $client->request('GET', $nextPageUrl2);
+
+        $nextPageUrl3 = '';
+        $crawler3->filter('.Question a')->each(function ($link) use (&$nextPageUrl3) {
+            $nextPageUrl3 = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
+            connect_to_db(run($nextPageUrl3, $link->text()));
         });
-        echo $process;
+        echo $nextPageUrl3;
     });
-
-    exit();
+    echo $nextPageUrl2;
 });
-
-exit();
+echo $nextPageUrl;
