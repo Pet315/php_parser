@@ -48,8 +48,8 @@ function run($nextPageUrl, $header) {
 
 function connect_to_db($crossword) {
     foreach ($crossword['answer_length'] as $word) {
-        $db = new PDO('mysql:host=localhost;dbname=php_parser', 'root', '2731');
-        $sql = "SELECT COUNT(*) AS count FROM crossword WHERE question = :question AND answer = :answer;";
+        $db = new PDO('mysql:host=localhost;dbname=reg_form', 'root', '2731');
+        $sql = "SELECT COUNT(*) AS count FROM crosswords WHERE question = :question AND answer = :answer;";
         $stmt = $db->prepare($sql);
         $stmt->bindParam(':question', $crossword['question']);
         $stmt->bindParam(':answer', $word['answer']);
@@ -58,7 +58,7 @@ function connect_to_db($crossword) {
 
         if ($result['count'] === 0) {
             try {
-                $sql = "INSERT INTO crossword (question, answer, length) VALUES (:question, :answer, :length)";
+                $sql = "INSERT INTO crosswords (question, answer, length) VALUES (:question, :answer, :length)";
                 $stmt = $db->prepare($sql);
                 $stmt->bindParam(':question', $crossword['question']);
                 $stmt->bindParam(':answer', $word['answer']);
