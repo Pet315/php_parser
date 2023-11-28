@@ -6,10 +6,41 @@ include 'urls.php';
 
 $url = $ex_url;
 
-$client = new Client();
+$proxy = [
+    'http' => 'http://34.77.56.122:8080',
+    'https' => 'https://34.77.56.122:8080',
+];
 
-$crawler = $client->request('GET', $url);
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_PROXY, $proxy['http']);
+$response = curl_exec($ch);
 
-$crawler->filter('h2')->each(function ($node) {
-    echo $node->text() . "\n";
-});
+echo "\nabc\n";
+
+$dom = new DOMDocument();
+@$dom->loadHTML($response);
+
+// Получаем все теги h2
+$h2s = $dom->getElementsByTagName("h2");
+
+// Выводим все теги h2
+foreach ($h2s as $h2) {
+    echo $h2->textContent . PHP_EOL;
+}
+
+//$data = json_decode($response, true);
+//var_dump($ch);
+
+//$h2s = array_filter($data, function ($element) {
+//    return $element['tagName'] === 'h2';
+//});
+//foreach ($h2s as $h2) {
+//    echo $h2['textContent'];
+//}
+
+//$client = new Client();
+//$crawler = $client->request('GET', $response);
+//$crawler->filter('h2')->each(function ($node) {
+//    echo $node->text() . "\n";
+//});
