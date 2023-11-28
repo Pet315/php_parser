@@ -48,7 +48,7 @@ function run($nextPageUrl, $header) {
 
 function connect_to_db($crossword) {
     foreach ($crossword['answer_length'] as $word) {
-        $db = new PDO('mysql:host=localhost;dbname=php_parser', 'root', '12345678');
+        $db = new PDO('mysql:host=localhost;dbname=php_parser', 'root', '2731');
         $sql = "SELECT COUNT(*) AS count FROM crossword WHERE question = :question AND answer = :answer;";
         $stmt = $db->prepare($sql);
         $stmt->bindParam(':question', $crossword['question']);
@@ -72,7 +72,6 @@ function connect_to_db($crossword) {
             }
         }
     }
-    return "next page\n";
 }
 
 $client = new Client();
@@ -80,23 +79,20 @@ $url = 'https://www.kreuzwort-raetsel.net/uebersicht.html';
 $crawler = $client->request('GET', $url);
 
 $nextPageUrl = '';
-$crawler->filter('.dnrg li a')->each(function ($link) use ($client, &$nextPageUrl) {
+$crawler->filter('.dnrg li a')->each(function ($link) use ($client) {
     $letter = $link->attr('href');
     $nextPageUrl = 'https://www.kreuzwort-raetsel.net/' . $letter;
     $crawler2 = $client->request('GET', $nextPageUrl);
 
-    $nextPageUrl2 = '';
-    $crawler2->filter('.dnrg li a')->each(function ($link) use ($client, &$nextPageUrl2) {
+    $crawler2->filter('.dnrg li a')->each(function ($link) use ($client) {
         $nextPageUrl2 = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
         $crawler3 = $client->request('GET', $nextPageUrl2);
 
-        $nextPageUrl3 = '';
-        $crawler3->filter('.Question a')->each(function ($link) use (&$nextPageUrl3) {
+        $crawler3->filter('.Question a')->each(function ($link) {
             $nextPageUrl3 = 'https://www.kreuzwort-raetsel.net/' . $link->attr('href');
             connect_to_db(run($nextPageUrl3, $link->text()));
         });
-        echo $nextPageUrl3;
+        echo "$nextPageUrl2\n";
     });
-    echo $nextPageUrl2;
+    echo "$nextPageUrl\n";
 });
-echo $nextPageUrl;
